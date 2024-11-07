@@ -1,2 +1,4 @@
-# acoustic_sensing_book
-acoustic sensing book chapters and codes
+# acoustic sensing
+
+This respository contains book chapters and associated codes.&#x20;
+
